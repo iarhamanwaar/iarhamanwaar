@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arham Anwaar
 ====================================================================================================================================================
 
-Hybrid Mobile App Developer
+Senior Software Engineer
 ---------------------------
 
 Highly skilled mobile app developer bringing around 3 years in software design, development and integration working with languages such as React Native and Flutter for frontend mobile frameworks. Offering advanced knowledge of Javascript & Dart programming languages. Detail-oriented, organised and meticulous employee. Enthusiastic team player ready to contribute to company success.
 
 *   🌍  I'm based in Lahore, Pakistan
-*   ✉️  You can contact me at [arhamanwaar@gmail.com](mailto:arhamanwaar@gmail.com)
-*   🚀  I'm currently working on [Qalam Aur Kagaz](http://qalamaurkagaz.com/)
+*   ✉️  You can contact me at [arhamanwaar.dev@gmail.com](mailto:arhamanwaar.dev@gmail.com)
+*   🚀  I'm currently working on [Shift AI](https://getshift.ai/)
 *   🧠  I'm learning Architecture Designing in Apps
 *   🤝  I'm open to collaborating on Community Mobile Apps
 *   ⚡  I'm secretly Spiderman... but don't tell anyone
